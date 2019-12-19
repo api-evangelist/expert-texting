@@ -1,0 +1,42 @@
+{
+    "name": "Expert Texting",
+    "description": "ExpertTexting.com is an international SMS gateway for mass texting or bulk SMS service covering 99% of the world's network with lowest rates per sms in industry for bulk SMS marketing or advertising purposes! Signup now and get 125 SMS Free.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1704-expert-texting.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "networks",
+        "norway"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/expert-texting\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Expert Texting",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1704-expert-texting.jpg",
+            "humanURL": "http:\/\/www.experttexting.com\/features\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/expert-texting-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Experttexting"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.experttexting.com\/features\/"
+        }
+    ]
+}
